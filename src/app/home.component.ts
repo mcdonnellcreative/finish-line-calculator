@@ -1,11 +1,12 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
-  selector: 'app-home',
-  template: `
-    <div>
-      Airline passenger app!
-    </div>
-  `
+    selector: 'flc-home',
+    template: `
+        <div>
+            Finish line calculator app lives here
+        </div>
+    `
 })
-export class HomeComponent {}
+export class HomeComponent {
+}
